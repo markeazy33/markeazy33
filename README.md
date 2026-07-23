@@ -53,7 +53,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_xHZGshOkorHgEqi5_RYY-9FF--XlOkS345qO15IExKfwFhAfPiyY-hylzpwILAUJcc&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-    <img src="https://uploads.static.fo.vin/system/useruploads/images/660a/f8c5/a923/2223/c588/74ad/original/yonote.jpg?1711995077" title="Yonote" alt="Yonote" width="40" height="40"/>&nbsp
   </div>
 
 ## Работа с базами данных
@@ -66,7 +65,6 @@
 ## Автотесты
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
